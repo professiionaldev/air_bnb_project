@@ -2,7 +2,7 @@ Project Name: Airbnb Bookings Analysis - Exploratory Data Analysis
 
 Project Type: EDA (Exploratory Data Analysis)
 
-Contribution: Individual - Ashvini Gabhane
+Contribution: Individual - Kuldeep Singh
 
 Project Summary:
 
