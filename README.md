@@ -10,7 +10,7 @@ This project delves into a comprehensive Airbnb dataset encompassing nearly 49,0
 
 GitHub Link:
 
-https://github.com/professiionaldev/air_bnb_project (link not verified)
+https://github.com/professiionaldev/air_bnb_project
 
 Problem Statement:
 
@@ -23,7 +23,7 @@ The overarching business objective of this Airbnb booking data analysis is to op
 General Guidelines:
 
 Well-structured, formatted, and well-commented code is essential.
-Exception handling, production-grade code, and deployment-ready code are highly encouraged. Students demonstrating these qualities will receive bonus points, granting them an advantage during Star Student selection.
+Exception handling, production-grade code, and deployment-ready code are highly encouraged.
 Deployment-ready code is defined as a complete Jupyter Notebook (.ipynb) that executes flawlessly without encountering errors.
 Clear and concise comments are required for every logical step within the code.
 You are free to incorporate as many informative charts as you see fit. However, ensure you address the following questions for each chart:
